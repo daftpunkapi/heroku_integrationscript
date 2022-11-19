@@ -8,6 +8,7 @@ Deprecated==1.2.13
 dnspython==2.2.1
 email-validator==1.3.0
 Flask==2.2.2
+flask-abort==0.0.1
 flask-mongoengine==1.0.0
 Flask-WTF==1.0.1
 httpie==3.2.1
